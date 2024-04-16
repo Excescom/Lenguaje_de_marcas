@@ -1,0 +1,18 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilo-fechas.css"?>
+<equipos>
+    <equipo nombre="Real Madrid" ciudad="Madrid">
+        <entrenador />
+        <jugadores>
+            <jugador nombre="Karim Benzema" posicion="delantero" nacionalidad="Francia" />
+            <jugador nombre="Thibaut Courtois" posicion="portero" nacionalidad="Bélgica" />
+        </jugadores>
+    </equipo>
+    <equipo nombre="FC Barcelona" ciudad="Barcelona">
+        <entrenador />
+        <jugadores>
+            <jugador nombre="Lionel Messi" posicion="delantero" nacionalidad="Argentina" />
+            <jugador nombre="Gerard Piqué" posicion="defensa" nacionalidad="España" />
+        </jugadores>
+    </equipo>
+</equipos>
