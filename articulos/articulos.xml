@@ -1,0 +1,16 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<!DOCTYPE articulos SYSTEM "articulos.dtd">
+<articulos>
+    <articulo>
+        <nombre>Zapatillas</nombre>
+        <precio> 32€ </precio>
+        <codigo> edfigedfu1 </codigo>    
+        <fabricante> yo </fabricante>   
+    </articulo>
+    <articulo>
+        <nombre>sudadera</nombre>
+        <precio> 20€ </precio>
+        <codigo> djy3tf42yug5r </codigo>   
+        <fabricante> tú </fabricante>   
+    </articulo>
+</articulos>
