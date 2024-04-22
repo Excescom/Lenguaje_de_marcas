@@ -2,8 +2,8 @@
 <!ELEMENT equipo (nombre,ciudad,entrenador,jugadores)>
 <!ELEMENT nombre (#PCDATA)>
 <!ELEMENT nacionalidad (#PCDATA)>
-<!ELEMENT diudad (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
 <!ELEMENT entrenador EMPTY>
 <!ELEMENT jugadores (jugador+)>
 <!ELEMENT jugador (nombre,nacionalidad)>
-<!ATTLIST jugador posicion (portero | defensa | medio | delantero)> 
+<!ATTLIST jugador posicion (portero | defensa | medio | delantero) #REQUIRED>
